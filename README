@@ -1,6 +1,6 @@
-twitter re follow tool
+twiter post deleter
 
-twitterでspamを避けつつまとめてfollow返しする為のtool
-サーバーで処理したくないから、極力jsでやるようにした。
+期間とか指定したり検索したりしつつ、任意の発言をまとめて削除する為のツール。
+
 
 使う時はconf.php.sampleをrenameしてシークレットキーとか設定して使ってね。
