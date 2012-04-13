@@ -1,0 +1,19 @@
+table#search_tweet td{
+	border: 1px solid #dddddd;
+}
+
+table#search_tweet th{
+	background-color: #ffbbbb;
+}
+
+select#delete_list{
+	width: 480px;
+}
+
+.c1{
+	background-color:#CCCCCC;
+}
+
+.c2{
+	background-color:#FFFFFF;
+}
